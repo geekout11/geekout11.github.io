@@ -1,0 +1,19 @@
+* {
+    color: #969696;
+    font-weight: 100;
+    font-family: sans-serif;
+}
+
+.h6-change-color {
+    color: orange;
+    text-decoration: underline;
+    transition: color .3s;
+}
+
+.h6-change-color:hover {
+    color: black;
+}
+
+.btn-light:focus {
+    box-shadow: none;
+}
